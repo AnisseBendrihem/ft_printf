@@ -1,10 +1,10 @@
-# 🖨️ ft_printf
+# Ft_printf
 
 > A full custom reimplementation of the standard C `printf` function — part of the 42 School curriculum.
 
 ---
 
-## 🧠 Objective
+## Objective
 
 Reproduce the behavior of `printf()` by handling formatted output, including:
 - Character, string, integer, unsigned, hexadecimal, and pointer types.
@@ -13,7 +13,7 @@ Reproduce the behavior of `printf()` by handling formatted output, including:
 
 ---
 
-## 🔧 Function Prototype
+## Function Prototype
 
 ```c
 int ft_printf(const char *format, ...);
